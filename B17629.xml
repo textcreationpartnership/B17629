@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions at large, and cautionary, touching the proper use of those famous pills called Dr. De-Laun's head-pills many years composed, and sold in Black-Friers, London: also the nature of them, and the occasion of this their publication. Set forth by Michael Belke, physician.</title>
+            <author>Belke, Michael.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17629</idno><idno type="EEBO-CITATION">99826950</idno>
+  <idno type="VID">207540</idno>
+  <idno type="EEBO-PROQUEST">2240897434</idno>
+  
+            <idno type="STC">Wing B1790A</idno>
+            <idno type="PROQUEST">99826950</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826950e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1901:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions at large, and cautionary, touching the proper use of those famous pills called Dr. De-Laun's head-pills many years composed, and sold in Black-Friers, London: also the nature of them, and the occasion of this their publication. Set forth by Michael Belke, physician.</title>
+                  <author>Belke, Michael.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Head --  Diseases --  Early works to 1800.</term>
+               <term type="topical_term">Health promotion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207540:1"/>
+            <p>DIRECTIONS At large, And cautionary, touching the proper Use OF THOSE Famous Pills CALLED D<seg rend="sup">r.</seg>
+               <hi>DE-LAƲN</hi>'s HEAD-PILLS, Many years composed, and sold in <hi>Black-Friers, LONDON:</hi>
+            </p>
+            <p>Also the Nature of them, and the occasion of this their Publication.</p>
+            <p>Set forth by <hi>MICHAEL BELKE,</hi> Physician.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207540:2"/>
+            <pb n="1" facs="tcp:207540:2"/>
+            <head>DIRECTIONS <hi>At large, and cautionarry, touching the proper Ʋse of those Famous</hi> Pills <hi>called</hi> Doctor De-Laun's HEAD-PILLS, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving heard of the extraordinary waies of setting forth the universal Usefulness of other <hi>Pills,</hi> meerly under the Notion of Chymicall Prepara<g ref="char:EOLhyphen"/>tions, which way (as new) taketh the more with many; and having had longest experience of the Composing, Administring, and Operation of these <hi>Pills,</hi> of any person now living: I held my self concer<g ref="char:EOLhyphen"/>ned to set forth and defend in like publick manner these <hi>Pills</hi> from the popular insultation of any Pills whatsoever, and to endeavour their preservation from all obscurity; they having been many years very eminent, and usefull to the World.</p>
+            <p>These <hi>Pills</hi> are not onely Cephalick as to the Head, but also Hepatick as to the Liver, and Lientericall as to the Spleen; strongly purging the Head, yet in the farewell comforting the same; also forceably opening the Liver and Spleen, cleansing the Bloud, and generally expurgating viscous and gross Hu<g ref="char:EOLhyphen"/>mours out of the Body.</p>
+            <p>The Ingredients of these <hi>Pills</hi> are very many; of which some are gently opening, others forceably purging: the rude<g ref="char:EOLhyphen"/>ness of which Purgatives is subjected unto, and qualified by the superintendent correction of what is Chymicall, so that they answer their intended designs and purposes with much safety.</p>
+            <p>They are very durable, and have commonly been transpor<g ref="char:EOLhyphen"/>ted into many farre and remote parts of the World, where they have gained great approbation, as well as in these three Kingdoms for seventy or eighty years. And as to their Composure, <hi>Galen</hi> and <hi>Paracelsus</hi> might have been fairly reconciled in them.</p>
+            <pb n="2" facs="tcp:207540:3"/>
+            <p>The general Bent and Tendency of these (as before from the three Heads thereof) is left to all rational persons to find out.</p>
+            <p>If the evil consequences of a frigid and humid Brain, of an obstructed Liver, and a tumefied Spleen, (the very Sink of the Body) can be prevented in their Fountains; then that great Catalogue of those collaterall or adherent Distempers may be much obliterated.</p>
+            <p>Whence come over-cold, sharp, and salt Catarrhs, and unna<g ref="char:EOLhyphen"/>tural Defluxions, which by their asperities over-much irritate the Lungs to Coughs, and cause Ulcerations in order to Con<g ref="char:EOLhyphen"/>sumptions, but from the Head? or (if their tendency take into another Chanel) by falling on the Nerves and extream parts, they cause Tooth-ach, some kindes of Gouts, and painful white Swellings, hardly brought to sedation, but by dealing with the Fountain.</p>
+            <p>Whence the generall corruption of the Bloud, but from the partial and unequal Sanguisying of the Liver? whence, if too gross, Palsies and Apoplexies; if too fast, Pleuritical and other Feavers; if too serous and thin, Dropsies do insue.</p>
+            <p>Whence Melancholy and Hypochondriacal Passions, even to the highest pitch of Distemper, but from the Spleen insor<g ref="char:EOLhyphen"/>bing, and thence expunging such sordities, as the state of the Body (wherein it is sited) doth most plentifully afford?</p>
+            <p>These <hi>Pills</hi> are (in their consequence) inimicitious and very repugnant unto that Epidemical Disease called the <hi>Scurvy.</hi>
+            </p>
+            <p>Although much hath been written of the Universality of other <hi>Pills,</hi> urging the frequent and familiar taking of them so farre, that (if all could be made good) Physicians might burn their Books, and seek some other Imployment; and it's full time so to doe, when one sort of <hi>Pills</hi> shall cure all Diseases, known
+<pb n="3" facs="tcp:207540:3"/>or unknown, without name or number: yet I affirm no such in<g ref="char:EOLhyphen"/>herent excellency in these, but what I have stated, I shall stand unto, touching them; provided that they be timely admini<g ref="char:EOLhyphen"/>stred, rather by way of prevention of, then recovery out of the evil consequences of what is before mentioned: advising all persons to apply themselves to able Physicians at hand before too dangerously seased, for they know better how to move after the several exigencies, more especially in case of dangerous Feavers accompanying them, (being present) then any person absent (by any general Directions) can.</p>
+            <div type="part">
+               <head>Directions for the Quantities in taking of them.</head>
+               <p>Whereas the ancient custome hath been, for a man or wo<g ref="char:EOLhyphen"/>man of strongest Constitution sometimes to take two for one Dose, which was 18. grains good weight, and for all others to take one <hi>Pill</hi> for one Dose; I have observed the two to be many times too strong, and the one too weak for a second sort, and too strong for the weakest, who had like need of them: and therefore I do now make some of nine grains, and some of six grains, whereby they may be fitly-proportionated to every person from 6. to 18. years of age, and thence to declining age, as followeth.</p>
+               <p>To one of six years (and strength proportionable) 6. grains; which is one of the smallest sort of <hi>Pills.</hi>
+               </p>
+               <p>To one of nine years 9. grains; which is one of the largest sort of <hi>Pills.</hi>
+               </p>
+               <p>To one of twelve years 12. grains; which is two of the smallest sort.</p>
+               <p>To one of fifteen years 15. grains; which is one great and one small one.</p>
+               <p>To one of eighteen years 18. grains; which is two of the
+<pb n="4" facs="tcp:207540:4"/>greatest ones, or three of the smallest. And thence the like to declining age.</p>
+               <p>I advise no person to exceed these proportions, but rather then so, to take 15 for 18, 12 for 15, 9 for 12, 6 for 9, and 4 grains and a half, the moiety of a great <hi>Pill</hi> cut in sunder, and rouled again, in stead of 6.</p>
+            </div>
+            <div type="part">
+               <head>Directions for Administring of them.</head>
+               <p>Let the Temperature of the air be moderate, (if extream necessity urge not.) And when the days are longest, let them be taken in manner and at times specified as followeth.</p>
+               <p>Let these <hi>Pills</hi> be swallowed down whole (rouled in, or co<g ref="char:EOLhyphen"/>vered over immediately before the taking with some Conserve, Quiddiny, pap of Apple or Pear, or syrupe gratefull to the Palate) at three in the morning in bed, sleeping therein after the same, if the Party can, and about four hours after beginning to take warm Suppings, taking now and then a draught during the operation thereof, and keeping moderately warm all that day; and at night at bed-time taking a little Ale or Beer clarified with some Nutmeg and Rosemary therein hot, and sweetned with Sugar to liking.</p>
+               <p>And when the days shall be at the shortest, let them be ta<g ref="char:EOLhyphen"/>ken at six in the morning in manner as the former.</p>
+               <p>And at all other times, (the days lengthning or shortning) let them be taken sooner or later in the mornings, sutably to what is before stated.</p>
+            </div>
+            <div type="part">
+               <head>Directions after the use of them.</head>
+               <p>When respect is had most to <hi>Rheums</hi> in the Head, Conserves of Red Roses, Rosemary, Red Sage, Wood-Betony, and Cow-slip Flowers, with some Nutmeg therein, are proper
+<pb n="5" facs="tcp:207540:4"/>to be often and at seasonable times taken, or their like.</p>
+               <p>Also Perfumes of Cephalick Gumms, as Benjamin, Storax, Olibanum, Mastick, Frankincense, with some Amber, and their like, are very usefull.</p>
+               <p>Also Caps quilted with fine Flax within, and like Gumms, with Amber, and Cephalick Herbs, Flowers, and Spices, as Red Sage, Wood-Betony, Red Roses, Rosemary Flowers, Lavender, Cloves and Nutmegs, or the like, may be fitly worn.</p>
+               <p>When greatest respect is had to the <hi>Liver,</hi> Conserves of Cichory-Flowers, Garden Scurvy-grass, Roman Wormwood, are proper.</p>
+               <p>Also clarisied Whey, or Posset-Drink with a dash of white Wine therein, with Harts-tongue, Liverwort, Agrimony, Sorrel, Persley-Roots, Fennell-Roots, and Polypodie-Roots, with a small quantity of sweet Fennell-Seeds boyled therein, may be of effectual use.</p>
+               <p>When greatest respect is had to the <hi>Spleen,</hi> especially as to Melancholie, Conserves of Borrage, Buglosse, and Clove-Gilli<g ref="char:EOLhyphen"/>flowers, also of Wood-Sorrel, are very usefull.</p>
+               <p>Also clarified Whey, or the aforesaid Posset-Drink, with Pippins or Permain-Apples, Wood-Sorrell, Borrage, Bu<g ref="char:EOLhyphen"/>glosse, Hell-weed, Tamarisk, with like opening Roots as before, and sweet Fennell-Seeds boyled therein, are very requisite.</p>
+               <p>Where the former, as to the Head, Liver and Spleen, are readily to be had, and accordingly prepared, there will be the less need of iteration, or often taking of the <hi>Pills.</hi>
+               </p>
+               <p>When a Predominancy of Choler contributeth most plen<g ref="char:EOLhyphen"/>tifully unto the Distemper, these <hi>Pills</hi> prove somewhat violent
+<pb n="6" facs="tcp:207540:5"/>in their working, at which times the Possets ought to be the whiter, and corrected with a few Aniseeds, and the other Sup<g ref="char:EOLhyphen"/>pings the thicker, corrected with a little Mace, and the more often, more warm, and larger quantities taken during the ope<g ref="char:EOLhyphen"/>ration thereof: and in case of faintness, let not Cinnamon-Wa<g ref="char:EOLhyphen"/>ter, nor any Restrictive thing be taken, to check any violent working, unless after twenty four hours, if any such contingent befall such person: and then a Clyster injected of new Milk, and hard Sugar with a little Cinnamon therein, may be safe and usefull.</p>
+            </div>
+            <div type="part">
+               <head>The Rates of these Pills.</head>
+               <p>The Rate of every Box of <hi>Pills</hi> (wherein are three large and three small ones) is two shillings six pence, with a Book of Directions into it.</p>
+               <p>The Rate of every Book of Directions, unless with such Box of <hi>Pills,</hi> is two pence.</p>
+               <p>The Place which I at present nominate for delivering forth these to the several persons, and receiving returns from them, is in <hi>Angel-Court</hi> near the <hi>May-pole</hi> in the <hi>Strand, London,</hi> where I, or some other person (in mine absence, deputed by me) shall constantly attend the said business.</p>
+               <p>The Boxes shall be all of Tinn, sealed with mine accustomed Seal, an Anchor, and <hi>M. B.</hi> signifying my name; and the Di<g ref="char:EOLhyphen"/>rections shall have my name printed at the foot of every of them.</p>
+               <closer>
+                  <signed>
+                     <hi>Michael Belke,</hi> Med.</signed>
+                  <dateline>
+                     <hi>Strand, London,</hi>
+                     <date>
+                        <hi>Apr.</hi> 1667.</date>
+                  </dateline>
+               </closer>
+               <pb facs="tcp:207540:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
